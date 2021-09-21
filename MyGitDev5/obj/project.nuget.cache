@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCR1OY8KjMhbFicph4KjwUjp/tXfkDVE1XTKIs/XkjMZRkWnqIUtQ8ezPb4wu+iEvkA0FOwQKg77zS1qxerDaw==",
+  "success": true,
+  "projectFilePath": "F:\\INTADM21DF010\\Stage 4 codes\\Azure\\MyGitDev5\\MyGitDev5\\MyGitDev5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AKSHAY KUMAR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\AKSHAY KUMAR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
